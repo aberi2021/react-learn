@@ -14,4 +14,4 @@ Eslintが問題らしいが解決できず。<br>
 ### 2.<></>でエラー
 この質問とまったく同じ状況になった。<br>
 https://stackoverflow.com/questions/75368559/unexpected-token-at-of-a<br>
-`<div></div`>で対応中
+`<div></div>`で対応中
